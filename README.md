@@ -57,9 +57,9 @@ Second, train our method:
     
     bash eval_BFG.sh
 
-##References
+## References
 This repo is built based on [DGCNN (pytorch)](https://github.com/WangYueFt/dgcnn/tree/master/pytorch) and [attMPTI](https://github.com/Na-Z/attMPTI). Thanks for their great works!
 
 
 ## Citation
-Please cite our paper if it is helpful to your research:
+If you find our work and this repository useful. Please consider giving a star :star: and citation &#x1F4DA;.
